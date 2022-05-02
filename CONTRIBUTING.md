@@ -1,4 +1,4 @@
-# Goodbye Kansas Contributor Guidelines
+# Goodbye Kansas Studios AB Contributor Guidelines
 
 If you have ideas for collaboration, improvements or other feedback, email us at
 opensource@goodbyekansas.com
